@@ -26,7 +26,7 @@ Device configuration for HTC One (M8)
 
 ## Picture
 
-![HTC One M8](https://i.imgur.com/j8URT5L.jpg "HTC One M8")
+![HTC One M8](https://raw.githubusercontent.com/AltairROM-Devices/devices/master/images/m8.jpg "HTC One M8")
 
 ## Copyrights
 
